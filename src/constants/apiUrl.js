@@ -1,6 +1,6 @@
 const SERVERS = {
   PRODUCT: {
-    XHR: "https://api.slovo.expert/api/v1/"
+    XHR: "https://127.0.0.1:8000/api/v1/"
   },
   DEV: {
     XHR:
