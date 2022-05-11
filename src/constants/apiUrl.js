@@ -1,6 +1,6 @@
 const SERVERS = {
   PRODUCT: {
-    XHR: "http://206.81.11.6:80/api/v1/"
+    XHR: "https://206.81.11.6/api/v1/"
   },
   DEV: {
     XHR:
